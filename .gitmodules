@@ -1,0 +1,3 @@
+[submodule "TraceAnything"]
+	path = TraceAnything
+	url = https://github.com/ByteDance-Seed/TraceAnything
